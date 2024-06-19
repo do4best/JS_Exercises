@@ -30,8 +30,7 @@ body{
     font-size: 25px;
     font-weight: 500;
     margin: 40px;
-}
-button .btn{
+} .btn{
     font-size: 18px;
     font-weight: 700;
     border-radius: 5px;
@@ -43,7 +42,7 @@ button .btn{
     width: 300px;
     color: darkgreen;
 }
-button .btn:hover{
+.btn:hover{
     background-color: rgba(255,255,255,.5);
     box-shadow: 0 4px 4px rgba(0,0,0,0.3);
     transition: all 300s ease;
